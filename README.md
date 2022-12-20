@@ -13,4 +13,5 @@
 
 </br></br>
 **Contributions**
-![snake gif](https://github.com/TNLegend/TNLegend/blob/output/github-contribution-grid-snake.gif)
+<br>
+![snake gif](https://github.com/TNLegend/TNLegend/blob/output/github-contribution-grid-snake.gif)Err, too long query
