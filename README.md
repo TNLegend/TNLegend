@@ -14,4 +14,4 @@
 </br></br>
 # Contributions
 
-![snake gif](https://github.com/TNLegend/TNLegend/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/TNLegend/TNLegend/blob/output/github-contribution-grid-snake.svg)
