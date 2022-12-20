@@ -13,5 +13,4 @@
 
 </br></br>
 <h3 align="left">Contributions</h3>
-<br>
 ![snake gif](https://github.com/TNLegend/TNLegend/blob/output/github-contribution-grid-snake.gif)
