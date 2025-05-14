@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yassine Abich</h1>
-<h3 align="center">A passionate SWE & Pentester from Tunisa</h3>
+<h3 align="center">A passionate SWE & CyberSecurity student From Tunisia <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="30" alt="Tunisia Flag"/></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnlegend" alt="tnlegend" /></a> </p>
 
